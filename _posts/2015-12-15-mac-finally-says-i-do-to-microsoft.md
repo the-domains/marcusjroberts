@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "As a developer on the Microsoft stack for most of my career, I've long been tied to a PC to create sites and applications. I've used various versions of Visual Studio through the years. New tools have come and gone.... but one thing remained unchanged: I was always working on a PC. Although, I must confess - my heart belonged to Apple!"
-datePublished: '2015-12-15T23:31:57.226Z'
-dateModified: '2015-12-15T23:31:46.352Z'
+datePublished: '2015-12-15T23:38:56.353Z'
+dateModified: '2015-12-15T23:38:50.911Z'
 author: []
 title: 'Mac finally says “I do" to Microsoft'
+sourcePath: _posts/2015-12-15-mac-finally-says-i-do-to-microsoft.md
+published: true
 authors: []
 publisher:
   name: microsoft.com
   domain: www.microsoft.com
   url: null
   favicon: null
-sourcePath: _posts/2015-12-15-mac-finally-says-i-do-to-microsoft.md
-published: true
 url: mac-finally-says-i-do-to-microsoft/index.html
 _context: 'http://schema.org'
 _type: Article
@@ -43,3 +43,7 @@ I also really fancied the integration with my local Git repositories, and it soo
 The freedom to join the cult of Mac aside, it's actually a pretty good tool. It behaves the same across both platforms, which is reassuring. I love the split screen functionality, and the ability to open a folder as a "project" without having to have solution or project files. Now that I'm on my way to becoming a Git guru, I love the integration with the local repositories, especially when working with a site hosted on Azure.
 
 It's brilliant to have my development stack of choice truly unshackled from the operating system. I have the freedom to develop the sites I want, regardless of the hardware I'm carrying around at the time. I'll be keeping a close eye on the progress of MVC 6\. The ability to code, build, test and deploy an MVC site from my MacBook will make me completely hardware agnostic. So I can smugly sip my flat white as I write my C\# and casually sit among the other PHP developers in the coffee shops of London. Time to grow that beard...
+
+This post originally appeared on [microsoft.com][0].
+
+[0]: https://www.microsoft.com/en-gb/developers/articles/week01dec15/mac-finally-says-i-do-to-microsoft/
